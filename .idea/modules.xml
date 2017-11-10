@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational/Creational.iml" filepath="$PROJECT_DIR$/Creational/Creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Shape/Shape.iml" filepath="$PROJECT_DIR$/Creational/Factory/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory/WeaponApp/WeaponApp.iml" filepath="$PROJECT_DIR$/Creational/Factory/WeaponApp/WeaponApp.iml" />
+    </modules>
+  </component>
+</project>
